@@ -1,0 +1,32 @@
+.higihlight {
+  color: red;
+  background-color: yellow;
+  font-weight: bold;
+}
+
+h1, h2 {
+  background-color: wheat;
+  text-align: center;
+}
+
+h1 {
+  margin: 10px;
+  padding: 20px;
+
+  font-size: 32px;
+  font-weight: bold;;
+}
+
+h2 {
+  margin: 8px;
+  padding: 16px;
+
+  font-size: 24px;
+  font-weight:normal;
+}
+
+a {
+  color: yellow;
+  background-color: red;
+  text-decoration: none;
+}
