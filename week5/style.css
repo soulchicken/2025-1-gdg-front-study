@@ -1,0 +1,16 @@
+#call {
+    background-color: lightblue;
+    border: 2px dotted black;
+    padding: 10px;
+    margin: 10px;
+
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#call:disabled {
+    background-color: lightgray;
+    color: darkgray;
+}
+
+.line { text-decoration: line-through; }
